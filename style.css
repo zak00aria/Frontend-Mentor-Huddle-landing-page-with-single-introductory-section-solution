@@ -115,7 +115,8 @@ footer .icomoon:hover{
     align-items: flex-start;
   }
   section > .container > img{
-    max-width:50%;
+    width:50%;
+    max-width:600px;
   }
   section .content{
     margin-left:3.5rem;
