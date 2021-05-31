@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://zak00aria.github.io/Frontend-Mentor-Huddle-landing-page-with-single-introductory-section-solution/index.html)
 
 ## My process
 
