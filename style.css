@@ -107,7 +107,7 @@ footer .icomoon:hover{
     height:40px;
   }
   .container{
-    max-width:1300px;
+    max-width:1240px;
   }
   section .container{
     flex-direction: row;
@@ -123,7 +123,7 @@ footer .icomoon:hover{
   }
   section .content > h1{
     font-size:2rem;
-    margin:1.5em 0 .5em;
+    margin:1em 0 .5em;
     max-width:20ch;
   }
   section .content p{
